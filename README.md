@@ -17,6 +17,4 @@ Abyss is an action-packed survival game where players control a girl trapped in 
 2. Manage your resources—ammunition and sword strikes—wisely to fend off monsters.
 3. Explore the cave, avoid danger, and aim to survive as long as possible.
 
----
-Made with ❤️ by me.
 
